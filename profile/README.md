@@ -1,4 +1,4 @@
-**otak-atik** *v*, **mengotak-atik** /meng·o·tak-a·tik/ *v* to tinker or experiment in order to repair (a radio, watch, etc., that is broken) or to create something.
+**[otak-atik](https://kbbi.web.id/otak-atik)** *v*, **[mengotak-atik]()** /meng·o·tak-a·tik/ *v* to tinker or experiment in order to repair (a radio, watch, etc., that is broken) or to create something.
 
 Utak-atik is my personal workspace for technical exploration, tinkering, and building things from the ground up. This organization is dedicated to the process of discovery—taking systems apart to understand how they function and putting them back together in new, often better, ways.
 
